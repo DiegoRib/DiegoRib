@@ -22,5 +22,7 @@ https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google
 https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 
+![DiegoRib's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRib&show_icons=true&theme=tokyonight)
 
-![image]({https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white})
+
+<div><img height= "20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="accessibility text"/></div>
