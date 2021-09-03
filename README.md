@@ -38,5 +38,6 @@
   <img height= "30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
 
-</br></br></br></br></br>
+</br>
 
+![DiegoRib's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRib&show_icons=true&theme=tokyonight)
