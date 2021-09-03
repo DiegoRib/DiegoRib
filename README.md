@@ -39,4 +39,4 @@
 </div>
 </br>
 
-[![DiegoRib GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRib&show_icons=true&theme=dracula&hide_border=enable)](https://github.com/DiegoRib/github-readme-stats)
+[![DiegoRib GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRib&show_icons=true&theme=dracula&hide_border=enable)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRib&show_icons=true&theme=dracula&hide_border=enable&layout=compact)](https://github.com/DiegoRib/github-readme-stats)
