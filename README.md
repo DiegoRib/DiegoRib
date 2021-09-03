@@ -1,4 +1,4 @@
-## Hello my name is Diego Ribeiro, I have 21 years and I live in Brazil in the state of Minas Gerais
+### Hello my name is Diego Ribeiro, I have 21 years and I live in Brazil in the state of Minas Gerais.
 
 > ### My social networks:
 <div>
@@ -37,7 +37,6 @@
   <img height= "30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img height= "30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
-
 </br>
 
-![DiegoRib's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRib&show_icons=true&theme=tokyonight)
+[![DiegoRib GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRib&show_icons=true&theme=dracula&hide_border=enable)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRib&show_icons=true&theme=dracula&hide_border=enable&layout=compact)](https://github.com/DiegoRib/github-readme-stats)
